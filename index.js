@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 const answer // sentance dono same hen qk y aik h hen
  = await inquirer.prompt([
